@@ -10,6 +10,7 @@ void f(void *)
 	cout << "f(void *)" << endl;
 }
 
+// main function
 int main()
 {
 	f(nullptr);
